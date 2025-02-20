@@ -2,12 +2,12 @@
 
 ![Screenshot](assets/screenshot.png)
 
-A Python-based file organizer with a sleek cyberpunk-themed GUI. It automatically organizes files into folders based on their type (e.g., images, documents, music).
+A Python-based file organizer with a sleek purple-themed GUI. It automatically organizes files into folders based on their type (e.g., images, documents, music).
 
 ## Features
 - Organizes files into customizable categories.
 - Logs all actions for easy tracking.
-- Modern and user-friendly GUI.
+- User-friendly GUI.
 
 ## How to Use
 1. Clone this repository:
